@@ -6,7 +6,8 @@ namespace variables_and_constants
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            byte number;
+            Console.WriteLine(number);
         }
     }
 }
